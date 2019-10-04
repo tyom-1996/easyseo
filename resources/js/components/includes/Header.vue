@@ -330,6 +330,7 @@
             // console.log(this.$store) // -> 1
             this.$root.$on('user_data',(data) => {
                 this.user_data = data
+                console.log(this.user_data)
             })
 
 

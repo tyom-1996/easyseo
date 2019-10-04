@@ -70,7 +70,11 @@
         line-height: 1.3;
         margin: 0;
         padding: 0;
-        height: 99.9%;
+        height: 100vh;
+    }
+    .wrapp{
+        height: 100vh;
+        overflow: auto;
     }
 
 

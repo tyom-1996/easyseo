@@ -37,6 +37,9 @@
         color: #454545;
         background: #F1F5EC url(../../../images/bk-footer.png) repeat-x bottom;
         border-top: 1px dashed #abc68e;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
     }
     .footer-right{
         max-width: 1280px;

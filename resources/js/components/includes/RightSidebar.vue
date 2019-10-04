@@ -68,7 +68,7 @@
         outline: none;
         border: none;
         cursor: pointer;
-        /*background-position-x: center;*/
+        background-position-x: center;
         text-decoration: none!important;
     }
 
@@ -117,7 +117,7 @@
 
     .btnreg:hover, .btnlogin:hover {
         color: #fff;
-        background-position: left bottom;
+        background-position:bottom;
         border: none;
     }
 </style>
